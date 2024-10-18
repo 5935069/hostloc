@@ -4,14 +4,14 @@
    排列  (
      0 =>
      排列  (
-       'username' => '淑君' ,
-       'password' => 'LIan535261993' ,
+       'username' => '账号' ,
+       'password' => '密码' ,
        'last_brush' => '' ,
      ) ,
      1 =>
      排列  (
-       'username' => '淑君大魔王' ,
-       'password' => 'LIan535261993' ,
+       'username' => '账号' ,
+       'password' => '密码' ,
        'last_brush' => '' ,
      ) ,
    ) ,
